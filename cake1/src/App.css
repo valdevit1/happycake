@@ -1,0 +1,33 @@
+.navContainer {
+  display: flex;
+  justify-content: space-around;
+  background-color: red;
+  color: white;
+}
+
+h5 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.button {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+label {
+  display: flex;
+  justify-content: center;
+}
+
+.placeholder {
+  display: flex;
+  justify-content: center;
+}
+
+h1 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
